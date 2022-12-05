@@ -1,0 +1,9 @@
+{
+  "name": "nwd cpp",
+  "description": "test cpp",
+  "keywords": ["cpp", "codeblocks"],
+  "homepage": "https://fxhxyz4.github.io",
+  "author": "fxhxyz <fxhxyz@proton.me> (https://fxhxyz4.github.io)",
+  "version": "1.0.0",
+  "license": "MIT"
+}
